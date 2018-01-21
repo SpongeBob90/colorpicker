@@ -1,2 +1,2 @@
 # ColorPickerDemo
-This is a color picker demo by java.
+This is a color picker demo by jQuery.
